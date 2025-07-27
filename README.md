@@ -61,9 +61,11 @@ A complete backend console-based **Library Management System** using Python and 
 
 ### 📂 Project Structure
     📦 Data-Analysis-Bootcamp
-    ┣ 📄 Password_Checker.ipynb
-    ┣ 📄 Library_Management.ipynb
-    ┣ 📄 README.md  
+    ┣ 📂 major-projects
+    ┃ ┗ 📄 Library_Management.ipynb
+    ┣ 📂 minor-projects
+    ┃ ┗ 📄 Password_Checker.ipynb
+    ┗ 📄 README.md  
 ---
 
 ## 🙌 Contribution & Feedback
