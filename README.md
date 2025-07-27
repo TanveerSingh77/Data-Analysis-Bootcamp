@@ -55,6 +55,10 @@ A complete backend console-based **Library Management System** using Python and 
 - Try-Except Error Handling
 - Console Interface
 
+📂 **File**: `Library_Management.ipynb`
+
+---
+
 ### 📂 Project Structure
     📦 Data-Analysis-Bootcamp
     ┣ 📄 Password_Checker.ipynb
