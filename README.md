@@ -130,7 +130,6 @@ This project manages core library operations including:
 
 # Let's Connect
 
-Email: [Email](mailto:tanveer.gulati2006@gmail.com)
+Email: [tanveer.gulati2006@gmail.com](mailto:tanveer.gulati2006@gmail.com)
 
-LinkedIn:  
-[LinkedIn](https://www.linkedin.com/in/tanveer-singh-gulati/)
+LinkedIn:  [Tanveer Singh Gulati LinkedIn](https://www.linkedin.com/in/tanveer-singh-gulati/)
