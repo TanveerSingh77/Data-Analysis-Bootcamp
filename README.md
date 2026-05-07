@@ -1,7 +1,7 @@
 # Data Analysis Bootcamp Projects
 
 A collection of Python-based mini and major projects built during my Data Analysis Bootcamp journey.  
-These projects focus on strengthening core programming concepts, problem-solving, database handling, and building real-world applications using Python.
+These projects focus on strengthening core programming concepts, problem-solving, database handling, and building real-world applications using Python, SQL, and Power BI.
 
 ---
 
@@ -43,6 +43,37 @@ This project simulates a basic login system where users can:
 - User account management
 
 **Project File:** `minor-projects/Password_Checker.ipynb`
+
+---
+
+# Electric Vehicle Sales Analysis – India
+
+A Power BI dashboard project focused on analyzing Electric Vehicle sales trends across India.
+
+### Overview
+This project provides insights into EV adoption trends, sales performance, and category-wise analysis using interactive Power BI visualizations.
+
+### Features
+- Interactive Dashboard
+- State-wise EV Sales Analysis
+- Category-wise Vehicle Comparison
+- Sales Trend Visualization
+- KPI Cards & Charts
+- Data Cleaning and Transformation
+
+### Skills Demonstrated
+- Data Visualization
+- Dashboard Design
+- Data Cleaning
+- Business Insights Generation
+- Power BI Reporting
+- KPI Analysis
+
+### Tech Stack
+- Power BI
+- Excel/CSV Dataset
+
+**Project File:** `minor-projects/Electric Vehicle Sales-India.pbix`
 
 ---
 
@@ -90,5 +121,13 @@ This project manages core library operations including:
 ┣ 📂 major-projects
 ┃ ┗ 📄 Library_Management.ipynb
 ┣ 📂 minor-projects
-┃ ┗ 📄 Password_Checker.ipynb
+┃ ┣ 📄 Password_Checker.ipynb
+┃ ┗ 📄 Electric Vehicle Sales-India.pbix
 ┗ 📄 README.md
+
+# Let's Connect
+
+Email: `tanveer.gulati2006@gmail.com`
+
+LinkedIn:  
+[Tanveer Singh Gulati LinkedIn](https://www.linkedin.com/in/tanveer-singh-gulati/)
