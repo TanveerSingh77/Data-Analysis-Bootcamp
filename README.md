@@ -1,81 +1,94 @@
-# 📊 Data Analysis Bootcamp – Python Projects
+# Data Analysis Bootcamp Projects
 
-This repository contains **mini and major projects** developed as part of my learning journey during the **Data Analysis Bootcamp**.  
-Each project helped me improve my skills in Python, logic building, database integration, and building real-world console applications.
+A collection of Python-based mini and major projects built during my Data Analysis Bootcamp journey.  
+These projects focus on strengthening core programming concepts, problem-solving, database handling, and building real-world applications using Python.
 
 ---
 
-## 🔐 1. Password Checker / Login System (Mini Project)
+# Projects Included
 
-A simple simulation of a password setting and login system using basic Python concepts.
+## Password Checker / Login System
 
-### 📚 What I Learned
-- Python Basics
-- Conditional Statements (`if`, `else`, `elif`)
+A beginner-friendly authentication system developed using core Python concepts.
+
+### Overview
+This project simulates a basic login system where users can:
+- Set a password
+- Attempt login with limited tries
+- Recover forgotten passwords
+- Experience simple authentication flow logic
+
+### Skills Demonstrated
+- Python Fundamentals
+- Conditional Statements (`if`, `elif`, `else`)
 - Loops (`while`)
-- String comparison
-- User input handling
-- Basic login logic
+- User Input Handling
+- String Operations
+- Basic Authentication Logic
 
-### 🚀 How It Works
-- User sets a password  
-- Program gives 3 chances to enter the correct password  
-- If correct, user is logged in  
-- If failed all 3 times, login is blocked  
-- Option to view forgotten password
+### Features
+- Password creation system  
+- 3-attempt login restriction  
+- Incorrect password handling  
+- Forgot password functionality  
 
-### 💻 Tech Used
-- Python (Pure Core)
-- Terminal/Command line input/output
+### Tech Stack
+- Python
+- Command Line Interface (CLI)
 
-### 🧠 Future Improvements
-- Hide password input (`getpass`)
-- Password strength checker
-- Store password in file or database
+### Future Enhancements
+- Secure hidden password input using `getpass`
+- Password strength validation
+- File/Database-based credential storage
+- User account management
 
-📂 **File**: `Password_Checker.ipynb`
-
----
-
-## 📚 2. Library Management System (Major Project)
-
-A complete backend console-based **Library Management System** using Python and SQLite, built as a capstone project during the bootcamp.
-
-### ✨ Features
-- User Registration and Secure Login
-- View All Available Books
-- Search Books by Title
-- Issue Books with Stock Check
-- SQLite-based persistent storage
-
-### 🛠️ Technologies Used
-- Python Core
-- SQLite Database
-- Functions & Modular Code
-- Try-Except Error Handling
-- Console Interface
-
-📂 **File**: `Library_Management.ipynb`
+**Project File:** `minor-projects/Password_Checker.ipynb`
 
 ---
 
-### 📂 Project Structure
-    📦 Data-Analysis-Bootcamp
-    ┣ 📂 major-projects
-    ┃ ┗ 📄 Library_Management.ipynb
-    ┣ 📂 minor-projects
-    ┃ ┗ 📄 Password_Checker.ipynb
-    ┗ 📄 README.md  
+# Library Management System
+
+A console-based backend Library Management System developed using Python and SQLite.
+
+### Overview
+This project manages core library operations including:
+- User registration & login
+- Book inventory management
+- Searching books
+- Issuing books with stock validation
+- Database storage using SQLite
+
+### Features
+- User Registration & Authentication  
+- View Available Books  
+- Search Books by Title  
+- Issue Books with Availability Check  
+- Persistent SQLite Database Storage  
+- Error Handling using `try-except`
+
+### Skills Demonstrated
+- Python Programming
+- SQLite Database Integration
+- Functions & Modular Programming
+- CRUD Operations
+- Exception Handling
+- Backend Logic Building
+
+### Tech Stack
+- Python
+- SQLite
+- Jupyter Notebook
+
+**Project File:** `major-projects/Library_Management.ipynb`
+
 ---
 
-## 🙌 Contribution & Feedback
+# Repository Structure
 
-This repository is part of my personal learning. If you find any issue, suggestion, or improvement — feel free to raise an issue or connect with me.
-
----
-
-## 🔗 Let's Connect
-
-📫 Email: tanveer.gulati2006@gmail.com  
-💼 [LinkedIn Profile](https://www.linkedin.com/in/tanveer-singh-gulati-3109b2339/)  
-🐍 Happy Learning and Coding! 🚀
+```bash
+📦 Data-Analysis-Bootcamp
+┣ 📂 major-projects
+┃ ┗ 📄 Library_Management.ipynb
+┣ 📂 minor-projects
+┃ ┗ 📄 Password_Checker.ipynb
+┗ 📄 README.md
