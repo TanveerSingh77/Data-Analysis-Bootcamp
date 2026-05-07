@@ -117,13 +117,16 @@ This project manages core library operations including:
 # Repository Structure
 
 ```bash
-📦 Data-Analysis-Bootcamp
-┣ 📂 major-projects
-┃ ┗ 📄 Library_Management.ipynb
-┣ 📂 minor-projects
-┃ ┣ 📄 Password_Checker.ipynb
-┃ ┗ 📄 Electric Vehicle Sales-India.pbix
-┗ 📄 README.md
+Data-Analysis-Bootcamp/
+│
+├── major-projects/
+│   └── Library_Management.ipynb
+│
+├── minor-projects/
+│   ├── Password_Checker.ipynb
+│   └── Electric Vehicle Sales-India.pbix
+│
+└── README.md
 ```
 
 ---
