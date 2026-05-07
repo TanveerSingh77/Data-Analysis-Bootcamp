@@ -124,6 +124,9 @@ This project manages core library operations including:
 ┃ ┣ 📄 Password_Checker.ipynb
 ┃ ┗ 📄 Electric Vehicle Sales-India.pbix
 ┗ 📄 README.md
+```
+
+---
 
 # Let's Connect
 
